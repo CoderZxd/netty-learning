@@ -38,6 +38,14 @@ public class DiscardServer {
         }
     }
 
+    /**
+     * @MethodName main
+     * @Description https://www.w3cschool.cn/netty4userguide/
+     * @Author xiaodong.zou
+     * @Date 2019/10/15 23:38
+     * @Param [args]
+     * @return void
+     **/
     public static void main(String[] args) throws Exception{
         int port = 8080;
         if(args.length > 0){
