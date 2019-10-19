@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d093190-b2d7-4032-9818-7962776df60d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty-learning.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zxd/test/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxd/test/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zxd/test/DiscardServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zxd/test/DiscardServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zxd/test/DiscardServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zxd/test/DiscardServerHandler.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +100,7 @@
       <workItem from="1571117705849" duration="167000" />
       <workItem from="1571145710956" duration="5900000" />
       <workItem from="1571153869728" duration="53000" />
-      <workItem from="1571474530623" duration="549000" />
+      <workItem from="1571474530623" duration="667000" />
     </task>
     <servers />
   </component>
