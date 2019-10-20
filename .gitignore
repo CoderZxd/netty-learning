@@ -33,6 +33,5 @@ hs_err_pid*
 out
 gen
 /.idea/
-将删除 .gitignore
-将删除 target/generated-sources/
-将删除 target/generated-test-sources/
+.gitignore
+/target/
