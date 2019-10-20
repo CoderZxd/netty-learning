@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d093190-b2d7-4032-9818-7962776df60d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zxd/test/DiscardServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxd/test/DiscardServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zxd/test/DiscardServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxd/test/DiscardServerHandler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,7 +98,8 @@
       <workItem from="1571474530623" duration="951000" />
       <workItem from="1571475681368" duration="1738000" />
       <workItem from="1571572700769" duration="145000" />
-      <workItem from="1571572911383" duration="2928000" />
+      <workItem from="1571572911383" duration="3426000" />
+      <workItem from="1571577599391" duration="160000" />
     </task>
     <servers />
   </component>
