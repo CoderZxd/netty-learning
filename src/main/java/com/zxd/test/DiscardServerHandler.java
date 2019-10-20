@@ -38,10 +38,12 @@ public class DiscardServerHandler extends ChannelInboundHandlerAdapter {
 //                System.out.println((char) in.readByte());
 //                System.out.flush();
 //            }
+            ctx.write(msg);
+            ctx.flush();
         }catch (Exception e){
             System.err.println(e.getMessage());
         }finally {
-            ReferenceCountUtil.release(msg);
+//            ReferenceCountUtil.release(msg);
         }
     }
 
