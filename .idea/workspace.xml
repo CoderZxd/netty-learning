@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5d093190-b2d7-4032-9818-7962776df60d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zxd/test/DiscardServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxd/test/DiscardServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zxd/test/DiscardServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxd/test/DiscardServerHandler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +38,6 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
-  </component>
   <component name="ProjectId" id="1SPoKhp7XWrN6urxSlgOIGAA6Tc" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -54,7 +49,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,7 +99,7 @@
       <workItem from="1571474530623" duration="951000" />
       <workItem from="1571475681368" duration="1738000" />
       <workItem from="1571572700769" duration="145000" />
-      <workItem from="1571572911383" duration="646000" />
+      <workItem from="1571572911383" duration="2928000" />
     </task>
     <servers />
   </component>
